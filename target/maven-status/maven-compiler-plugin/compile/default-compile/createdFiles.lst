@@ -1,3 +1,5 @@
 org\restApi\Application.class
 org\restApi\model\Greeting.class
+org\restApi\service\GreetingService.class
+org\restApi\service\GreetingServiceBean.class
 org\restApi\api\GreetingController.class

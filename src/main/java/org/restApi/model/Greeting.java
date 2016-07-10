@@ -7,7 +7,7 @@ public class Greeting {
     
     
     private String text;
-    private BigInteger id;
+    private Long id;
     
     public Greeting(){}
 
@@ -15,7 +15,7 @@ public class Greeting {
         return text;
     }
 
-    public BigInteger getId() {
+    public Long getId() {
         return id;
     }
 
@@ -23,7 +23,7 @@ public class Greeting {
         this.text = text;
     }
 
-    public void setId(BigInteger id) {
+    public void setId(Long id) {
         this.id = id;
     }
     
