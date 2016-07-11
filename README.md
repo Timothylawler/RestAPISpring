@@ -16,7 +16,7 @@ Contains the following
 
 * A controller with CRUD to use with the greetings model
 
-* A simple hSQL database with a table for the greetings model
+* A simple hibernate database with a table for the greetings model
 
 
 ---
