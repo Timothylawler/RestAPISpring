@@ -12,9 +12,11 @@ Contains the following
 
 * Spring Boot main Application
 
-* A simple Greetings model 
+* A Greetings model 
 
 * A controller with CRUD to use with the greetings model
+
+* A simple hSQL database with a table for the greetings model
 
 
 ---
