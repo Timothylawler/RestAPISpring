@@ -3,3 +3,4 @@ org\restApi\model\Greeting.class
 org\restApi\service\GreetingService.class
 org\restApi\service\GreetingServiceBean.class
 org\restApi\api\GreetingController.class
+org\restApi\repository\GreetingRepository.class
